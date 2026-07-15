@@ -1,6 +1,7 @@
 # Basic Processor
 
-This is to diagram a microprocessor, starting from digital circuitry all the way up to processor operations. (e.g., circuits -> logic gates -> multiplexors, bitwise operations, algorithmic operations, storage [latches &amp; flip-flops] -> VHDL/ISAs -> registers &amp; buffers -> instruction ordering &amp; logic units [ALUs, FPUs, etc.] -> microprocessor
+## **This is a work in progress.** 
+_As a hobby project/resume bullet point, I intend to diagram a microprocessor, starting from digital circuitry all the way up to processor operations. (e.g., circuits -> logic gates -> multiplexors, bitwise operations, algorithmic operations, storage [latches &amp; flip-flops] -> VHDL/ISAs -> registers &amp; buffers -> instruction ordering & scheduling; logic units [ALUs, FPUs, etc.] -> microprocessor._
 
 ## Things to Enumerate & Understand
 **1. Logic gate circuitry & combinations**
